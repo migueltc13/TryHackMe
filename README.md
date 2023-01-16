@@ -8,6 +8,8 @@ Whether you're new to the field or looking to brush up on your skills, this path
 
 By the end, you'll have a solid foundation in cybersecurity and be ready to take on advanced challenges and real-world scenarios.
 
+### Instructions on how to use this repository [here](/INSTRUCTIONS.md)
+
 ## Level 1 - Intro
 
 - [x] [OpenVPN](https://tryhackme.com/room/openvpn)
