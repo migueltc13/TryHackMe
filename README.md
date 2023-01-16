@@ -19,7 +19,8 @@ By the end, you'll have a solid foundation in cybersecurity and be ready to take
 - [x] [Welcome](https://tryhackme.com/jr/welcome)
 - [x] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
 - [x] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
-- [x] [Learn Linux](https://tryhackme.com/module/linux-fundamentals)
+- [x] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
+- [ ] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
 <!-- - [x] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private -->
 
 **Introductory CTFs to get your feet wet**
