@@ -1,6 +1,6 @@
 # Instructions for using this repository:
 
-### 1. Fork this repository to your own Github account by clicking the "Fork" button in the top right corner
+### 1. Fork this repository to your own GitHub account by clicking the "Fork" button in the top right corner
 
 <br>
 
@@ -26,7 +26,7 @@ This command will replace '[x]' with '[ ]' in the README.md file.
 
 ### 4. Keep track of which rooms you have complete
 
-By replacing '[ ]' with '[x]' in README.md file for each room you complete.
+By replacing '[ ]' with '[x]' in the README.md file for each room you complete.
 
 <br>
 
