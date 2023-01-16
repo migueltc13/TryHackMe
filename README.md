@@ -118,7 +118,7 @@ By the end, you'll have a solid foundation in cybersecurity and be ready to take
 - Subscribe to TryHackMe to get paths featuring subscriber-only rooms.
 - New challenge rooms are released weekly, have a go at them before the write-ups come out!
 - Keep a list of interesting CTFs and do them.
-- Sign up to other platforms such as [CTF time](https://ctftime.org/) and take part in competitive CTFs. You'll be surprised by how far you can get with the knowledge you have!
+- Sign up to other platforms such as [CTF time](https://ctftime.org/) and take part in competitive CTFs.
 - Start a blog with writeups of new rooms.
 - Create your own challenge rooms for TryHackMe.
 - Did you like reverse engineering? How about Windows? Or perhaps privesc? You can specialise in one area if you really like it. Just search for rooms with that on TryHackMe, or ask in the Discord/Forums/Sub-reddit "I liked X and want to do more".
