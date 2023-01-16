@@ -24,7 +24,7 @@ This command will replace '[x]' with '[ ]' in the README.md file.
 
 <br>
 
-### 4. Keep track of which rooms you have completed
+### 4. Keep track of which rooms you have complete
 
 By replacing '[ ]' with '[x]' in README.md file for each room you complete.
 
@@ -39,7 +39,7 @@ You can use emojis inside the square brackets. For example:
 
 <br>
 
-### 6. Make any changes you want and push them back to your forked repository
+### 6. Make any changes you want and push them back to your forked repo
 
 By using the following commands:
 
