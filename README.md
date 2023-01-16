@@ -42,7 +42,7 @@ By the end, you'll have a solid foundation in cybersecurity and be ready to take
 - [ ] [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
 - [ ] [Brute It](https://tryhackme.com/room/bruteit)
 
-## Level 3 - Crypto & Hashes with CTF practice)
+## Level 3 - Crypto & Hashes with CTF practice
 - [x] [Crack the hash](https://tryhackme.com/room/crackthehash)
 - [ ] [Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 - [ ] [The Cod Caper](https://tryhackme.com/room/thecodcaper)
