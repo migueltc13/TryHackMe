@@ -12,6 +12,8 @@ By the end, you'll have a solid foundation in cybersecurity and be ready to take
 
 **Instructions on how to use this repository [here](/INSTRUCTIONS.md)**
 
+---
+
 ## Level 1 - Intro
 
 - [x] [OpenVPN](https://tryhackme.com/room/openvpn)
@@ -114,6 +116,8 @@ By the end, you'll have a solid foundation in cybersecurity and be ready to take
 - [ ] [Advent of Cyber Year 2](https://tryhackme.com/room/adventofcyber2)
 - [ ] [Advent of Cyber Year 3](https://tryhackme.com/room/adventofcyber3)
 - [ ] [Advent of Cyber Year 4](https://tryhackme.com/room/adventofcyber4)
+
+---
 
 ### Completed the above? You can:
 
