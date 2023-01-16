@@ -1,3 +1,5 @@
+# TryHackMe free rooms
+
 # Level 1 - Intro
 
 - [x] [OpenVPN](https://tryhackme.com/room/openvpn)
@@ -5,7 +7,7 @@
 - [x] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
 - [x] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 - [x] [Learn Linux](https://tryhackme.com/module/linux-fundamentals)
-- [x] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private
+<!-- - [x] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private -->
 
 **Introductory CTFs to get your feet wet**
 - [x] [Google Dorking](https://tryhackme.com/room/googledorking)
@@ -24,8 +26,8 @@
 - [ ] [RustScan](https://tryhackme.com/room/rustscan)
 
 **More introductory CTFs**
-- [ ] [Vulnversity -](https://tryhackme.com/room/vulnversity)
-- [ ] [Blue -](https://tryhackme.com/room/blue)
+- [ ] [Vulnversity](https://tryhackme.com/room/vulnversity)
+- [ ] [Blue](https://tryhackme.com/room/blue)
 - [ ] [Simple CTF](https://tryhackme.com/room/easyctf)
 - [ ] [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
 - [ ] [Brute It](https://tryhackme.com/room/bruteit)
@@ -95,5 +97,20 @@
 - [ ] [Anthem](https://tryhackme.com/room/anthem)
 - [ ] [Relevant](https://tryhackme.com/room/relevant)
 
-# Other rooms
+# More rooms
 - [ ] [Pickle Rick](https://tryhackme.com/room/picklerick)
+- [ ] [Owasp Top 10](https://tryhackme.com/room/owasptop10)
+- [ ] [Advent of Cyber Year 1](https://tryhackme.com/room/25daysofchristmas)
+- [ ] [Advent of Cyber Year 2](https://tryhackme.com/room/adventofcyber2)
+- [ ] [Advent of Cyber Year 3](https://tryhackme.com/room/adventofcyber3)
+- [ ] [Advent of Cyber Year 4](https://tryhackme.com/room/adventofcyber4)
+
+### Completed the above? You can:
+
+- Subscribe to TryHackMe to get paths featuring subscriber-only rooms. Trust me, they are far better than anything I could make!
+- New challenge rooms are released weekly, have a go at them before the writeups come out!
+- Keep a list of interesting CTFs and do them.
+- Sign up to other platforms such as CTF time and take part in competitive CTFs. You'll be surprised by how far you can get with the knowledge you have!
+- Start a blog with writeups of new rooms.
+- Create your own challenge rooms for TryHackMe.
+- Did you like reverse engineering? How about Windows? Or perhaps privesc? You can specialise in one area if you really like it. Just search for rooms with that on TryHackMe, or ask in the Discord/Forums/Sub-reddit "I liked X and want to do more".
