@@ -2,13 +2,13 @@
 
 This comprehensive path on [TryHackMe](https://tryhackme.com) will take you from a beginner to a pro within the cybersecurity domain.
 
-It includes hands-on exercises, introductory CTFs, and training modules that cover a wide range of topics, from OpenVPN and Linux fundamentals to web scanning and Metasploit.
+It includes hands-on exercises, introductory CTFs, and training modules that cover a wide range of topics, from OpenVPN and Linux fundamentals to web scanning and Metasploit, all for free!
 
 Whether you're new to the field or looking to brush up on your skills, this path has something for everyone.
 
 By the end, you'll have a solid foundation in cybersecurity and be ready to take on advanced challenges and real-world scenarios.
 
-### Instructions on how to use this repository [here](/INSTRUCTIONS.md)
+**Instructions on how to use this repository [here](/INSTRUCTIONS.md)**
 
 ## Level 1 - Intro
 
@@ -115,10 +115,10 @@ By the end, you'll have a solid foundation in cybersecurity and be ready to take
 
 ### Completed the above? You can:
 
-- Subscribe to TryHackMe to get paths featuring subscriber-only rooms. Trust me, they are far better than anything I could make!
-- New challenge rooms are released weekly, have a go at them before the writeups come out!
+- Subscribe to TryHackMe to get paths featuring subscriber-only rooms.
+- New challenge rooms are released weekly, have a go at them before the write-ups come out!
 - Keep a list of interesting CTFs and do them.
-- Sign up to other platforms such as CTF time and take part in competitive CTFs. You'll be surprised by how far you can get with the knowledge you have!
+- Sign up to other platforms such as [CTF time](https://ctftime.org/) and take part in competitive CTFs. You'll be surprised by how far you can get with the knowledge you have!
 - Start a blog with writeups of new rooms.
 - Create your own challenge rooms for TryHackMe.
 - Did you like reverse engineering? How about Windows? Or perhaps privesc? You can specialise in one area if you really like it. Just search for rooms with that on TryHackMe, or ask in the Discord/Forums/Sub-reddit "I liked X and want to do more".
