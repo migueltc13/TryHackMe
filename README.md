@@ -15,7 +15,6 @@ By the end, you'll have a solid foundation in cybersecurity and be ready to take
 ---
 
 ## Level 1 - Intro
-
 - [x] [OpenVPN](https://tryhackme.com/room/openvpn)
 - [x] [Welcome](https://tryhackme.com/jr/welcome)
 - [x] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
@@ -103,6 +102,7 @@ By the end, you'll have a solid foundation in cybersecurity and be ready to take
 - [ ] [Overpass](https://tryhackme.com/room/overpass)
 - [ ] [Break out the cage](https://tryhackme.com/room/breakoutthecage1)
 - [ ] [Lian Yu](https://tryhackme.com/room/lianyu)
+- [ ] [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
 
 ## Level 9 - Windows
 - [ ] [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
@@ -120,7 +120,6 @@ By the end, you'll have a solid foundation in cybersecurity and be ready to take
 ---
 
 ### Completed the above? You can:
-
 - Subscribe to TryHackMe to get paths featuring subscriber-only rooms.
 - New challenge rooms are released weekly, have a go at them before the write-ups come out!
 - Keep a list of engaging CTFs and do them.
