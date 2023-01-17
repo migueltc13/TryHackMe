@@ -113,7 +113,9 @@ By the end, you'll have a solid foundation in cybersecurity and be ready to take
 - [ ] [Anthem](https://tryhackme.com/room/anthem)
 - [ ] [Relevant](https://tryhackme.com/room/relevant)
 
-## More rooms
+## Other rooms and events
+
+**Advent of Cyber Year**
 - [ ] [Advent of Cyber Year 1](https://tryhackme.com/room/25daysofchristmas)
 - [ ] [Advent of Cyber Year 2](https://tryhackme.com/room/adventofcyber2)
 - [ ] [Advent of Cyber Year 3](https://tryhackme.com/room/adventofcyber3)
