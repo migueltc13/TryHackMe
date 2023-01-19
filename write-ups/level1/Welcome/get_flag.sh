@@ -6,7 +6,7 @@
 # Example: ./script.sh 10.10.63.99
 
 # Retrieve the webpage using curl and store the output in a variable
-WEBPAGE=$(curl http://$1)
+WEBPAGE=$(curl -s http://$1)
 
 # Use grep to search for the flag text in the webpage
 FLAG=$(echo $WEBPAGE | grep -o "flag{.*}")
