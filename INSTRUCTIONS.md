@@ -1,4 +1,4 @@
-# Instructions for using this repository:
+# Instructions to use this repository:
 
 ### 1. Fork this repository to your own GitHub account by clicking the "Fork" button in the top right corner
 
