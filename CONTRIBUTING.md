@@ -67,4 +67,5 @@ Once you submit your PR, a Docs team member will review your proposal. We may as
 - If you run into any merge issues, checkout this [git tutorial](https://github.com/skills/resolve-merge-conflicts) to help you resolve merge conflicts and other issues.
 
 ### Your PR is merged!
-lse you can [contribute to the docs](/contributing/types-of-contributions.md).
+
+Congratulations :tada::tada: [@migueltc13](https://github.com/migueltc13) and the THM community thanks you :sparkles:.
