@@ -291,6 +291,8 @@ cat key.txt
 a58ff8579f0a9270368d33a9966c7fd5
 ```
 
+---
+
 ##### root reverse shell
 
 ```bash
@@ -298,9 +300,6 @@ nc -lvnp 7777
 ```
 
 Host THM IP: 10.18.10.39
-
-
----
 
 [Bash TCP reverse shell](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#bash-tcp)
 
