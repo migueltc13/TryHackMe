@@ -91,7 +91,7 @@ Web server: Apache/2.4.18
 Saved index.html with:
 
 ```
-wget $IP:333
+wget $IP:3333
 ```
 
 #### Enumeration with gobuster
@@ -125,7 +125,7 @@ Found: http://10.10.97.149:3333/internal/ (a upload page)
 #### Reverse shell
 
 ```
-nc -lvn 5050
+nc -lvnp 5050
 ```
 
 Upload the malicious php (reverse-shell.php)
@@ -142,9 +142,6 @@ Used burpsuit Intruder with a file like this:
 .inc
 .pHtml
 .pHp
-.pHp3
-.pHp4
-.pHp5
 ```
 
 Found that .phtml is a valid extension
@@ -261,7 +258,7 @@ www-data@vulnuniversity:/$
 ```
 
 
-Root:
+Root flag:
 ```
 www-data@vulnuniversity:/$ cat /root/root.txt
 cat: /root/root.txt: Permission denied
