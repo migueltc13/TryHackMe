@@ -40,7 +40,7 @@ By the end, you'll have a solid foundation in cybersecurity and be ready to take
 - [ ] [RustScan](https://tryhackme.com/room/rustscan)
 
 **More introductory CTFs**
-- [ ] [Vulnversity](https://tryhackme.com/room/vulnversity)
+- [x] [Vulnversity](https://tryhackme.com/room/vulnversity)
 - [ ] [Blue](https://tryhackme.com/room/blue)
 - [ ] [Simple CTF](https://tryhackme.com/room/easyctf)
 - [ ] [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)

