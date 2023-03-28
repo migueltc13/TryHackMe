@@ -330,10 +330,8 @@ Connection received on 10.10.53.246 44768
 
 ```bash
 root@vulnuniversity:/# whoami
-whoami
 root
 root@vulnuniversity:/# passwd
-passwd
 Enter new UNIX password: newpasswd
 Retype new UNIX password: newpasswd
 passwd: password updated successfully
