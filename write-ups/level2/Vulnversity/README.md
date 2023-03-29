@@ -105,9 +105,9 @@ gobuster -w ~/wordlists/dirbuster/directory-list-1.0.txt -u http://$IP:3333/
 Gobuster v2.0.1              OJ Reeves (@TheColonial)
 =====================================================
 [+] Mode         : dir
-[+] Url/Domain   : http://10.10.97.149:3333/
+[+] Url/Domain   : http://10.10.53.246:3333/
 [+] Threads      : 10
-[+] Wordlist     : /home/z0d1ac/wordlists/dirbuster/directory-list-1.0.txt
+[+] Wordlist     : ~/wordlists/dirbuster/directory-list-1.0.txt
 [+] Status codes : 200,204,301,302,307,403
 [+] Timeout      : 10s
 =====================================================
@@ -120,7 +120,7 @@ Gobuster v2.0.1              OJ Reeves (@TheColonial)
 ...
 ```
 
-Found: http://10.10.97.149:3333/internal/ (a upload page)
+Found: http://10.10.53.246:3333/internal/ (a upload page)
 
 #### Reverse shell
 
