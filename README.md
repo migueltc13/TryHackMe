@@ -16,7 +16,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 
 ## Level 1 - Intro
 - [x] [OpenVPN](https://tryhackme.com/room/openvpn)
-- [x] [Welcome](https://tryhackme.com/jr/welcome)
+- [x] [Welcome](https://tryhackme.com/jr/welcome) (write-up [here](write-ups/level1/Welcome))
 - [x] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
 - [x] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 - [x] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
@@ -40,9 +40,9 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [RustScan](https://tryhackme.com/room/rustscan)
 
 **More introductory CTFs**
-- [x] [Vulnversity](https://tryhackme.com/room/vulnversity)
+- [x] [Vulnversity](https://tryhackme.com/room/vulnversity) (write-up [here](write-ups/level2/Vulnversity))
 - [ ] [Blue](https://tryhackme.com/room/blue)
-- [ ] [Simple CTF](https://tryhackme.com/room/easyctf)
+- [x] [Simple CTF](https://tryhackme.com/room/easyctf) (write-up [here](write-ups/level2/Simple%20CTF))
 - [ ] [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
 - [ ] [Brute It](https://tryhackme.com/room/bruteit)
 
