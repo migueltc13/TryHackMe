@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 # Exploit Title: Unauthenticated SQL Injection on CMS Made Simple <= 2.2.9
 # Date: 30-03-2019
 # Exploit Author: Daniele Scanu @ Certimeter Group
