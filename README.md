@@ -30,13 +30,13 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 ## Level 2 - Tooling
 - [x] [Tmux](https://tryhackme.com/room/rptmux)
 - [x] [Nmap](https://tryhackme.com/room/furthernmap)
-- [ ] [Sublist3r](https://tryhackme.com/room/rpsublist3r)
 - [ ] [Metasploit](https://tryhackme.com/room/rpmetasploit)
 - [ ] [Hydra](https://tryhackme.com/room/hydra)
 - [ ] [Linux Privesc](https://tryhackme.com/room/linuxprivesc)
 - [ ] [Web Scanning](https://tryhackme.com/room/rpwebscanning)
 - [ ] [Shodan.io](https://tryhackme.com/room/shodan)
 - [ ] [RustScan](https://tryhackme.com/room/rustscan)
+<!-- - [ ] [Sublist3r](https://tryhackme.com/room/rpsublist3r) -->
 <!-- - [ ] [Web Scanning](https://tryhackme.com/room/rpwebscanning) -->
 
 **More introductory CTFs**
