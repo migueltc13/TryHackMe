@@ -28,7 +28,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [OHsint](https://tryhackme.com/room/ohsint)
 
 ## Level 2 - Tooling
-- [ ] [Tmux](https://tryhackme.com/room/rptmux)
+- [x] [Tmux](https://tryhackme.com/room/rptmux)
 - [x] [Nmap](https://tryhackme.com/room/furthernmap)
 - [ ] [Web Scanning](https://tryhackme.com/room/rpwebscanning)
 - [ ] [Sublist3r](https://tryhackme.com/room/rpsublist3r)
