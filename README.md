@@ -33,7 +33,6 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Metasploit](https://tryhackme.com/room/rpmetasploit)
 - [ ] [Hydra](https://tryhackme.com/room/hydra)
 - [ ] [Linux Privesc](https://tryhackme.com/room/linuxprivesc)
-- [ ] [Web Scanning](https://tryhackme.com/room/rpwebscanning)
 - [ ] [Shodan.io](https://tryhackme.com/room/shodan)
 - [ ] [RustScan](https://tryhackme.com/room/rustscan)
 <!-- - [ ] [Sublist3r](https://tryhackme.com/room/rpsublist3r) -->
