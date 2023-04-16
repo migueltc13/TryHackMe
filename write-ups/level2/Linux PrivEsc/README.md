@@ -1,10 +1,34 @@
 # Linux PrivEsc
 
+## Index
+
+- [Linux PrivEsc](#linux-privesc)
+  - [Index](#index)
+  - [1. Connect to the vulnerable machine](#1-connect-to-the-vulnerable-machine)
+  - [2. Service Exploits](#2-service-exploits)
+  - [3. Weak File Permissions - Readable /etc/shadow](#3-weak-file-permissions---readable-etcshadow)
+  - [4. Weak File Permissions - Writable /etc/shadow](#4-weak-file-permissions---writable-etcshadow)
+  - [5. Weak File Permissions - Writable /etc/passwd](#5-weak-file-permissions---writable-etcpasswd)
+  - [6. Sudo - Shell Escape Sequences](#6-sudo---shell-escape-sequences)
+  - [7. Sudo - Environment Variables](#7-sudo---environment-variables)
+  - [8. Cron Jobs - File Permissions](#8-cron-jobs---file-permissions)
+  - [9. Cron Jobs - PATH Environment Variable](#9-cron-jobs---path-environment-variable)
+  - [10. Cron Jobs - Wildcards](#10-cron-jobs---wildcards)
+  - [11. SUID / SGID Executables - Known Exploits](#11-suid--sgid-executables---known-exploits)
+  - [12. SUID / SGID Executables - Shared Object Injection](#12-suid--sgid-executables---shared-object-injection)
+  - [13. SUID / SGID Executables - LD\_PRELOAD](#13-suid--sgid-executables---ld_preload)
+  - [14. SUID / SGID Executables - Abusing Shell Features (#1)](#14-suid--sgid-executables---abusing-shell-features-1)
+  - [15. SUID / SGID Executables - Abusing Shell Features (#2)](#15-suid--sgid-executables---abusing-shell-features-2)
+  - [16. Passwords \& Keys - History Files](#16-passwords--keys---history-files)
+  - [17. Passwords \& Keys - Config Files](#17-passwords--keys---config-files)
+  - [18. Passwords \& Keys - SSH Keys](#18-passwords--keys---ssh-keys)
+  - [19. NFS](#19-nfs)
+  - [20. Kernel Exploits](#20-kernel-exploits)
+  - [21. Privilege Escalation Scripts](#21-privilege-escalation-scripts)
+
 ## 1. Connect to the vulnerable machine
 
 Connect to the machine using the credentials provided in the challenge description.
-
-
 
 ```bash
 export IP=10.10.49.124 # Change this to the IP of the vulnerable machine
@@ -622,4 +646,4 @@ Once the exploit completes, run /usr/bin/passwd to gain a root shell:
 
 ## 21. Privilege Escalation Scripts
 
-Several tools have been written which help find potential privilege escalations on Linux. Check the **[tools/](tools/)** directory for a list of these tools.
+Several tools have been written which help find potential privilege escalations on Linux. Check the **[tools/](tools/)** directory for a list of toothesels.
