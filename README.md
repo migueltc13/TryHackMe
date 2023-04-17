@@ -102,7 +102,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Overpass](https://tryhackme.com/room/overpass)
 - [ ] [Break out the cage](https://tryhackme.com/room/breakoutthecage1)
 - [ ] [Lian Yu](https://tryhackme.com/room/lianyu)
-- [ ] [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
+- [x] [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
 
 ## Level 9 - Windows
 - [ ] [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
