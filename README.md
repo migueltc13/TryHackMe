@@ -34,7 +34,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Hydra](https://tryhackme.com/room/hydra)
 - [x] [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) (write-up [here](write-ups/level2/Linux%20PrivEsc))
 - [ ] [Shodan.io](https://tryhackme.com/room/shodan)
-- [ ] [RustScan](https://tryhackme.com/room/rustscan)
+- [x] [RustScan](https://tryhackme.com/room/rustscan) (write-up [here](write-ups/level2/RustScan))
 <!-- - [ ] [Sublist3r](https://tryhackme.com/room/rpsublist3r) -->
 <!-- - [ ] [Web Scanning](https://tryhackme.com/room/rpwebscanning) -->
 
