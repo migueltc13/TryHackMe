@@ -40,7 +40,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 
 **More introductory CTFs**
 - [x] [Vulnversity](https://tryhackme.com/room/vulnversity) (write-up [here](write-ups/level2/Vulnversity))
-- [ ] [Blue](https://tryhackme.com/room/blue)
+- [x] [Blue](https://tryhackme.com/room/blue)
 - [x] [Simple CTF](https://tryhackme.com/room/easyctf) (write-up [here](write-ups/level2/Simple%20CTF))
 - [ ] [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
 - [ ] [Brute It](https://tryhackme.com/room/bruteit)
