@@ -105,6 +105,8 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
 
 ## Level 9 - Windows
+- [ ] [Ice](https://tryhackme.com/room/ice)
+- [ ] [Blaster](https://tryhackme.com/room/blaster)
 - [ ] [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
 - [ ] [Retro](https://tryhackme.com/room/retro)
 - [ ] [Blue Print](https://tryhackme.com/room/blueprint)
