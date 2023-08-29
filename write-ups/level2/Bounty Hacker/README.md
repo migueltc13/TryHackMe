@@ -1,4 +1,4 @@
-# Brute It
+# Bounty Hacker
 
 ```sh
 export IP=machine_ip
@@ -110,7 +110,7 @@ ReDSynd1ca7e
 
 </details>
 
-## Brute it: hydra
+## Brute force: hydra
 
 We assume that the username is **lin**, we could also perform a ssh username enumeration to retreive this info.
 
@@ -128,7 +128,7 @@ Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2023-08-29 18:07:
 1 of 1 target successfully completed, 1 valid password found
 ```
 
-## SSH login
+## Login via ssh
 
 ```sh
 ssh lin@$IP
