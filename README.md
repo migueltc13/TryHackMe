@@ -58,6 +58,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 
 ## Level 4 - Web
 - [x] [OWASP Top 10](https://tryhackme.com/room/owasptop10)
+- [ ] [OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)
 - [ ] [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 - [ ] [Inclusion](https://tryhackme.com/room/inclusion)
 - [ ] [Injection](https://tryhackme.com/room/injection)
