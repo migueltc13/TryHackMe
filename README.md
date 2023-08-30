@@ -24,7 +24,6 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 - [x] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
 - [x] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
-- [ ] [Active Directory Basics](https://tryhackme.com/room/winadbasics)
 <!-- - [x] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private -->
 
 **Introductory CTFs to get your feet wet**
@@ -111,6 +110,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
 
 ## Level 9 - Windows
+- [ ] [Active Directory Basics](https://tryhackme.com/room/winadbasics)
 - [ ] [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
 - [ ] [Retro](https://tryhackme.com/room/retro)
 - [ ] [Blue Print](https://tryhackme.com/room/blueprint)
