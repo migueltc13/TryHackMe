@@ -52,7 +52,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 
 ## Level 3 - Crypto & Hashes with CTF practice
 - [x] [Crack the hash](https://tryhackme.com/room/crackthehash)
-- [ ] [Agent Sudo](https://tryhackme.com/room/agentsudoctf)
+- [x] [Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 - [ ] [The Cod Caper](https://tryhackme.com/room/thecodcaper)
 - [ ] [Ice](https://tryhackme.com/room/ice)
 - [ ] [Lazy Admin](https://tryhackme.com/room/lazyadmin)
