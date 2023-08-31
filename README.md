@@ -98,7 +98,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Blaster](https://tryhackme.com/room/blaster)
 - [ ] [Ignite](https://tryhackme.com/room/ignite)
 - [ ] [Kenobi](https://tryhackme.com/room/kenobi)
-- [ ] [Capture the flag](https://tryhackme.com/room/c4ptur3th3fl4g)
+- [x] [c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 - [x] [Pickle Rick](https://tryhackme.com/room/picklerick) (write-up [here](write-ups/level7/Pickle%20Rick))
 
 ## Level 8 - CTF practice
