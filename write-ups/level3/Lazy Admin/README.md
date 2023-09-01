@@ -1,6 +1,8 @@
 # Lazy Admin
 
+```sh
 export IP=10.10.13.147
+```
 
 ## nmap
 
@@ -96,7 +98,7 @@ Gobuster v2.0.1              OJ Reeves (@TheColonial)
 
 A quick search about CMS SweetRice let us discover some critical vulnerabilities to exploit.
 
-Also is likely possible to search for the default password as the admin is lazy :)
+Also is likely possible to search for the default password since the admin is lazy :)
 
 However, I decided to do some research myself looking for new ways to get into this machine since searching for "Basic CMS SweetRice" led me to other write-ups from THM users.
 
@@ -140,7 +142,7 @@ And like so we can login in `/content/as` as admin:
 
 ![Admin panel](img/admin-page.png)
 
-We can upload this [php reverse shell](https://raw.githubusercontent.com/pentestmonkey/php-reverse-shell/master/php-reverse-shell.php).
+We can upload this [php reverse shell](https://raw.githubusercontent.com/pentestmonkey/php-reverse-shell/master/php-reverse-shell.php) made by pentestmonkey.
 
 ### PHP Reverse Shell
 
@@ -152,7 +154,7 @@ nc -lvnp 4444
 
 ![Upload php reverse shell](img/upload-php-reverse-shell.png)
 
-Finally, we click the upload php file, and boom we have a reverse shell to the machine:
+Finally, we click on the uploaded php file, and boom we have a reverse shell to the machine:
 
 ![Success reverse shell](img/success-reverse-shell.png)
 
