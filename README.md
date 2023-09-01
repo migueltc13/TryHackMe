@@ -48,7 +48,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Blue](https://tryhackme.com/room/blue)
 - [x] [Simple CTF](https://tryhackme.com/room/easyctf) (write-up [here](write-ups/level2/Simple%20CTF))
 - [x] [Bounty Hacker](https://tryhackme.com/room/cowboyhacker) (write-up [here](write-ups/level2/Bounty%20Hacker))
-- [ ] [Brute It](https://tryhackme.com/room/bruteit)
+- [x] [Brute It](https://tryhackme.com/room/bruteit)
 
 ## Level 3 - Crypto & Hashes with CTF practice
 - [x] [Crack the hash](https://tryhackme.com/room/crackthehash)
