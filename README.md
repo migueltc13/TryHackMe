@@ -55,7 +55,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 - [ ] [The Cod Caper](https://tryhackme.com/room/thecodcaper)
 - [ ] [Ice](https://tryhackme.com/room/ice)
-- [ ] [Lazy Admin](https://tryhackme.com/room/lazyadmin)
+- [x] [Lazy Admin](https://tryhackme.com/room/lazyadmin) (write-up [here](write-ups/level3/Lazy%20Admin))
 - [ ] [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 ## Level 4 - Web
