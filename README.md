@@ -67,7 +67,6 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 - [ ] [Ignite](https://tryhackme.com/room/ignite)
 - [ ] [Overpass](https://tryhackme.com/room/overpass)
-- [ ] [Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
 - [ ] [DevelPy](https://tryhackme.com/room/bsidesgtdevelpy)
 - [ ] [Jack of all trades](https://tryhackme.com/room/jackofalltrades)
 - [ ] [Bolt](https://tryhackme.com/room/bolt)
@@ -109,6 +108,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Overpass](https://tryhackme.com/room/overpass)
 - [ ] [Break out the cage](https://tryhackme.com/room/breakoutthecage1)
 - [ ] [Lian Yu](https://tryhackme.com/room/lianyu)
+- [x] [Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
 - [x] [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
 
 ## Level 9 - Windows
