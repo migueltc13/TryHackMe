@@ -57,7 +57,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [The Cod Caper](https://tryhackme.com/room/thecodcaper)
 - [ ] [Ice](https://tryhackme.com/room/ice)
 - [x] [Lazy Admin](https://tryhackme.com/room/lazyadmin) (write-up [here](write-ups/level3/Lazy%20Admin))
-- [ ] [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [x] [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 ## Level 4 - Web
 - [x] [OWASP Top 10](https://tryhackme.com/room/owasptop10)
