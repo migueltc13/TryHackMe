@@ -84,7 +84,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Brainpam 1](https://tryhackme.com/room/brainpan)
 
 ## Level 6 - Networking
-- [ ] [Introduction to Networking](https://tryhackme.com/room/introtonetworking)
+- [x] [Introduction to Networking](https://tryhackme.com/room/introtonetworking)
 - [ ] [HTTP in detail](https://tryhackme.com/room/httpindetail)
 - [ ] [Smag Grotto](https://tryhackme.com/room/smaggrotto)
 - [ ] [Overpass 2](https://tryhackme.com/room/overpass2hacked)
