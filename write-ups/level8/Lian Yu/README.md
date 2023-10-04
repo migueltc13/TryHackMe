@@ -348,16 +348,6 @@ After taking Joseph to the hospital, Adeline was enraged at his endangerment of 
 
 </details>
 
-
-```
-$ file *
-aa.jpg:             JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1200x1600, components 3
-Leave_me_alone.png: data
-Queen's_Gambit.png: PNG image data, 1280 x 720, 8-bit/color RGBA, non-interlaced
-```
-
-This `Leave_me_alone.png` file popped out in relation to the others.
-
 Looking for hidden data...
 
 Found it using [stegseek](https://github.com/RickdeJager/stegseek)
@@ -417,7 +407,7 @@ Found the ssh password!
 Thanks to the `.other_user` file we assume that the username is slade:
 
 ```
-ssh slade@10.10.119.227
+$ ssh slade@10.10.119.227
 slade@10.10.119.227's password: 
 			      Way To SSH...
 			  Loading.........Done.. 
