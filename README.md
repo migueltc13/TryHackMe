@@ -109,7 +109,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
 - [ ] [Overpass](https://tryhackme.com/room/overpass)
 - [ ] [Break out the cage](https://tryhackme.com/room/breakoutthecage1)
-- [ ] [Lian Yu](https://tryhackme.com/room/lianyu)
+- [x] [Lian Yu](https://tryhackme.com/room/lianyu) (write-up [here](write-ups/level8/Lian%20Yu))
 - [x] [Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
 - [x] [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
 
