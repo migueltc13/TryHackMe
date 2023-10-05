@@ -26,6 +26,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
 - [x] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
 - [x] [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
+- [x] [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)
 <!-- - [x] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private -->
 
 **Introductory CTFs to get your feet wet**
