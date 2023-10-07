@@ -86,7 +86,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Introduction to Networking](https://tryhackme.com/room/introtonetworking)
 - [ ] [HTTP in detail](https://tryhackme.com/room/httpindetail)
 - [ ] [Smag Grotto](https://tryhackme.com/room/smaggrotto)
-- [ ] [Overpass 2](https://tryhackme.com/room/overpass2hacked)
+- [ ] [Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
 ## Level 7 - PrivEsc
 - [x] [Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
@@ -99,6 +99,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Kenobi](https://tryhackme.com/room/kenobi)
 - [x] [c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 - [x] [Pickle Rick](https://tryhackme.com/room/picklerick) (write-up [here](write-ups/level7/Pickle%20Rick))
+- [ ] [Overpass 3 - Hosting](https://tryhackme.com/room/overpass3hosting)
 
 ## Level 8 - CTF practice
 - [ ] [Post Exploitation Basics](https://tryhackme.com/room/postexploit)
@@ -106,7 +107,6 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Dogcat](https://tryhackme.com/room/dogcat)
 - [ ] [LFI basics](https://tryhackme.com/room/lfibasics)
 - [ ] [Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
-- [ ] [Overpass](https://tryhackme.com/room/overpass)
 - [ ] [Break out the cage](https://tryhackme.com/room/breakoutthecage1)
 - [x] [Lian Yu](https://tryhackme.com/room/lianyu) (write-up [here](write-ups/level8/Lian%20Yu))
 - [x] [Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
