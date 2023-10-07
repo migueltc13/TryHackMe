@@ -92,8 +92,8 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Overpass 2](https://tryhackme.com/room/overpass2hacked)
 
 ## Level 7 - PrivEsc
-- [ ] [Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
-- [ ] [Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
+- [x] [Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
+- [x] [Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
 - [ ] [Windows Privesc](https://tryhackme.com/room/windows10privesc)
 - [ ] [Windows Privesc Arena](https://tryhackme.com/room/windowsprivescarena)
 - [x] [Linux Privesc Arena](https://tryhackme.com/room/linuxprivescarena)
