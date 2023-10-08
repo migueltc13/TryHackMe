@@ -81,7 +81,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [CC Steganography](https://tryhackme.com/room/ccstego)
 - [ ] [Reverse Engineering](https://tryhackme.com/room/reverseengineering)
 -->
-- [ ] [Reversing ELF](https://tryhackme.com/room/reverselfiles)
+- [x] [Reversing ELF](https://tryhackme.com/room/reverselfiles)
 - [ ] [Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 - [ ] [Brainpam 1](https://tryhackme.com/room/brainpan)
 
