@@ -103,7 +103,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 
 ## Level 8 - CTF practice
 - [ ] [Post Exploitation Basics](https://tryhackme.com/room/postexploit)
-- [ ] [Dogcat](https://tryhackme.com/room/dogcat)
+- [x] [Dogcat](https://tryhackme.com/room/dogcat)
 - [ ] [LFI basics](https://tryhackme.com/room/lfibasics)
 - [ ] [Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
 - [ ] [Break out the cage](https://tryhackme.com/room/breakoutthecage1)
