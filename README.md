@@ -71,7 +71,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [DevelPy](https://tryhackme.com/room/bsidesgtdevelpy)
 - [ ] [Jack of all trades](https://tryhackme.com/room/jackofalltrades)
 - [ ] [Bolt](https://tryhackme.com/room/bolt)
-- [ ] [SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
+- [x] [SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
 ## Level 5 - Reverse Engineering
 - [ ] [Intro to x86 64](https://tryhackme.com/room/introtox8664)
