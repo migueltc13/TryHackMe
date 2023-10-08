@@ -38,7 +38,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 - [x] [Hydra](https://tryhackme.com/room/hydra)
 - [x] [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) (write-up [here](write-ups/level2/Linux%20PrivEsc))
-- [ ] [Shodan.io](https://tryhackme.com/room/shodan)
+- [x] [Shodan.io](https://tryhackme.com/room/shodan)
 - [x] [RustScan](https://tryhackme.com/room/rustscan) (write-up [here](write-ups/level2/RustScan))
 - [x] [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
 - [ ] [Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
