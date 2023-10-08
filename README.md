@@ -41,7 +41,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Shodan.io](https://tryhackme.com/room/shodan)
 - [x] [RustScan](https://tryhackme.com/room/rustscan) (write-up [here](write-ups/level2/RustScan))
 - [x] [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
-- [ ] [Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
+- [x] [Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 - [ ] [Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
 <!-- - [ ] [Sublist3r](https://tryhackme.com/room/rpsublist3r) -->
 <!-- - [ ] [Web Scanning](https://tryhackme.com/room/rpwebscanning) -->
