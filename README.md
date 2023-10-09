@@ -114,6 +114,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Lian Yu](https://tryhackme.com/room/lianyu) (write-up [here](write-ups/level8/Lian%20Yu))
 - [x] [Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
 - [x] [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
+- [x] [Internal](https://tryhackme.com/room/internal)
 
 ## Level 9 - Windows
 - [ ] [Active Directory Basics](https://tryhackme.com/room/winadbasics)
