@@ -102,7 +102,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
 - [ ] [Blaster](https://tryhackme.com/room/blaster)
 - [ ] [Ignite](https://tryhackme.com/room/ignite)
-- [ ] [Kenobi](https://tryhackme.com/room/kenobi)
+- [x] [Kenobi](https://tryhackme.com/room/kenobi)
 - [x] [c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 - [x] [Pickle Rick](https://tryhackme.com/room/picklerick) (write-up [here](write-ups/level7/Pickle%20Rick))
 - [ ] [Overpass 3 - Hosting](https://tryhackme.com/room/overpass3hosting)
