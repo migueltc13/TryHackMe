@@ -87,7 +87,9 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 
 ## Level 6 - Networking
 - [x] [Introduction to Networking](https://tryhackme.com/room/introtonetworking)
-- [ ] [HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [x] [Intro to LAN](https://tryhackme.com/room/introtolan)
+- [x] [HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [x] [DNS in detail](https://tryhackme.com/room/dnsindetail)
 - [ ] [Smag Grotto](https://tryhackme.com/room/smaggrotto)
 - [ ] [Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
