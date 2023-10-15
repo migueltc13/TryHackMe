@@ -63,6 +63,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 ## Level 4 - Web
+- [x] [Walking An Application](https://tryhackme.com/room/walkinganapplication)
 - [x] [OWASP Top 10](https://tryhackme.com/room/owasptop10)
 - [ ] [OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)
 - [ ] [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
