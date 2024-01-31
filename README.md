@@ -1,18 +1,33 @@
 # TryHackMe Cybersecurity Path: From Beginner to Pro
 
-This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain. 
+<details>
+  <summary>
+    <h3>Introduction</h3>
+  </summary>
+  
+  This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain. 
+  
+  It offers a diverse selection of practical exercises, introductory CTFs, and educational modules that encompass a broad spectrum of topics, including OpenVPN, Linux fundamentals, web scanning, and Metasploit, all available at no cost.
+  
+  Suitable for individuals new to the field or those seeking to refine their existing skills, this learning path provides a valuable resource for all.
+  
+  Upon completion, you will have established a robust foundation in cybersecurity, equipping you with the knowledge and expertise necessary to tackle advanced challenges and real-world situations.
+</details>
 
-It offers a diverse selection of practical exercises, introductory CTFs, and educational modules that encompass a broad spectrum of topics, including OpenVPN, Linux fundamentals, web scanning, and Metasploit, all available at no cost.
+<details>
+  <summary>
+    <h3>Instructions</h3>
+  </summary>
 
-Suitable for individuals new to the field or those seeking to refine their existing skills, this learning path provides a valuable resource for all.
+  You can find instructions on how to use this repository at [INSTRUCTIONS.md](/INSTRUCTIONS.md).
+</details>
 
-Upon completion, you will have established a robust foundation in cybersecurity, equipping you with the knowledge and expertise necessary to tackle advanced challenges and real-world situations.
+<!-- ☐ -->
+<!-- ☑ -->
 
-<br>
-
-**Instructions on how to use this repository [here](/INSTRUCTIONS.md)**
-
----
+| Status | Room Title | Category |
+| ------ | ---------- | -------- |
+| ☑      | Tutorial   | Intro    |
 
 ## Level 1 - Intro
 - [x] [Tutorial](https://tryhackme.com/room/tutorial)
@@ -135,13 +150,16 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Advent of Cyber Year 3](https://tryhackme.com/room/adventofcyber3)
 - [ ] [Advent of Cyber Year 4](https://tryhackme.com/room/adventofcyber4)
 
----
-
-### Completed the above? You can:
-- Subscribe to TryHackMe to get paths featuring subscriber-only rooms.
-- New challenge rooms are released weekly, have a go at them before the write-ups come out!
-- Keep a list of engaging CTFs and do them.
-- Sign up to other platforms such as [CTF time](https://ctftime.org/) and take part in competitive CTFs.
-- Start a blog with writeups of new rooms.
-- Create your challenge rooms for TryHackMe.
-- Did you like reverse engineering? How about Windows? Or perhaps PrivEsc? You can specialize in one area if you like it. Just search for rooms with that on TryHackMe, or ask in the Discord/Forums/Sub-reddit "I liked X and want to do more".
+<details>
+  <summary>
+    <h3>Completed the above? You can:</h3>
+  </summary>
+  
+  - Subscribe to TryHackMe to get paths featuring subscriber-only rooms.
+  - New challenge rooms are released weekly, have a go at them before the write-ups come out!
+  - Keep a list of engaging CTFs and do them.
+  - Sign up to other platforms such as [CTF time](https://ctftime.org/) and take part in competitive CTFs.
+  - Start a blog with writeups of new rooms.
+  - Create your challenge rooms for TryHackMe.
+  - Did you like reverse engineering? How about Windows? Or perhaps PrivEsc? You can specialize in one area if you like it. Just search for rooms with that on TryHackMe, or ask in the Discord/Forums/Sub-reddit "I liked X and want to do more".
+</details>
