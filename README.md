@@ -1,18 +1,12 @@
 # TryHackMe: Free Cybersecurity Path
 
-<details>
-  <summary>
-    <h2>Introduction</h2>
-  </summary>
-  
-  This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain. 
-  
-  It offers a diverse selection of practical exercises, introductory CTFs, and educational modules that encompass a broad spectrum of topics, including OpenVPN, Linux fundamentals, web scanning, and Metasploit, all available at no cost.
-  
-  Suitable for individuals new to the field or those seeking to refine their existing skills, this learning path provides a valuable resource for all.
-  
-  Upon completion, you will have established a robust foundation in cybersecurity, equipping you with the knowledge and expertise necessary to tackle advanced challenges and real-world situations.
-</details>
+This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain. 
+
+It offers a diverse selection of practical exercises, introductory CTFs, and educational modules that encompass a broad spectrum of topics, including OpenVPN, Linux fundamentals, web scanning, and Metasploit, all available at no cost.
+
+Suitable for individuals new to the field or those seeking to refine their existing skills, this learning path provides a valuable resource for all.
+
+Upon completion, you will have established a robust foundation in cybersecurity, equipping you with the knowledge and expertise necessary to tackle advanced challenges and real-world situations.
 
 <details>
   <summary>
