@@ -2,7 +2,7 @@
 
 <details>
   <summary>
-    <h3>Introduction</h3>
+    <h2>Introduction</h2>
   </summary>
   
   This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain. 
@@ -16,11 +16,13 @@
 
 <details>
   <summary>
-    <h3>Instructions</h3>
+    <h2>Instructions</h2>
   </summary>
 
   You can find instructions on how to use this repository at [INSTRUCTIONS.md](/INSTRUCTIONS.md).
 </details>
+
+<br/>
 
 <!-- ☐ -->
 <!-- ☑ -->
