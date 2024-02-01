@@ -104,10 +104,10 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☐      | [Blue Print](https://tryhackme.com/room/blueprint)                            | Windows             |                                          |
 | ☐      | [Anthem](https://tryhackme.com/room/anthem)                                   | Windows             |                                          |
 | ☐      | [Relevant](https://tryhackme.com/room/relevant)                               | Windows             |                                          |
-| ☐      | [Advent of Cyber Year 1](https://tryhackme.com/room/25daysofchristmas)        | Other               |                                          |
-| ☐      | [Advent of Cyber Year 2](https://tryhackme.com/room/adventofcyber2)           | Other               |                                          |
-| ☐      | [Advent of Cyber Year 3](https://tryhackme.com/room/adventofcyber3)           | Other               |                                          |
-| ☐      | [Advent of Cyber Year 4](https://tryhackme.com/room/adventofcyber4)           | Other               |                                          |
+| ☑      | [Advent of Cyber Year 1](https://tryhackme.com/room/25daysofchristmas)        | Other               |                                          |
+| ☑      | [Advent of Cyber Year 2](https://tryhackme.com/room/adventofcyber2)           | Other               |                                          |
+| ☑      | [Advent of Cyber Year 3](https://tryhackme.com/room/adventofcyber3)           | Other               |                                          |
+| ☑      | [Advent of Cyber Year 4](https://tryhackme.com/room/adventofcyber4)           | Other               |                                          |
 
 <!-- Rooms that where made private: -->
 <!-- | ☑      | [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting)       | Intro               |                                          | -->
