@@ -1,4 +1,4 @@
-# TryHackMe Cybersecurity Path: From Beginner to Pro
+# TryHackMe: Free Cybersecurity Path
 
 <details>
   <summary>
