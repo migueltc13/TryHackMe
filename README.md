@@ -10,7 +10,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 
 <details>
   <summary>
-    <h2>Instructions</h2>
+    <b>Instructions</b>
   </summary>
 
   You can find instructions on how to use this repository at [INSTRUCTIONS.md](/INSTRUCTIONS.md).
@@ -121,15 +121,11 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 
 <details>
   <summary>
-    <h3>Completed the above? You can:</h3>
+    <b>Completed the above? You can:</b>
   </summary>
   
   - Subscribe to TryHackMe to get paths featuring subscriber-only rooms.
   - New challenge rooms are released weekly, have a go at them before the write-ups come out!
-  - Keep a list of engaging CTFs and do them.
   - Sign up to other platforms such as [CTF time](https://ctftime.org/) and take part in competitive CTFs.
-  - Start a blog with writeups of new rooms.
   - Create your challenge rooms for TryHackMe.
-  - Did you like reverse engineering? How about Windows? Or perhaps PrivEsc? You can specialize in one area if you like it. Just search for rooms with that on TryHackMe, or ask in the Discord/Forums/Sub-reddit "I liked X and want to do more".
 </details>
-
