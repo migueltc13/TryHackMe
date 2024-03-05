@@ -124,8 +124,8 @@ Upon completion, you will have established a robust foundation in cybersecurity,
     <b>Completed the above? You can:</b>
   </summary>
   
-  - Subscribe to TryHackMe to get paths featuring subscriber-only rooms.
+  - Subscribe to TryHackMe to get paths featuring subscriber-only rooms, use my [referral link](https://tryhackme.com/signup?referrer=6291c8b35002ba0050e92637) to get a ***5$*** discount!
   - New challenge rooms are released weekly, have a go at them before the write-ups come out!
-  - Sign up to other platforms such as [CTF time](https://ctftime.org/) and take part in competitive CTFs.
   - Create your challenge rooms for TryHackMe.
+  - Sign up to other platforms such as [CTF time](https://ctftime.org/) and take part in competitive CTFs.
 </details>
