@@ -60,7 +60,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☐      | [Post Exploitation Basics](https://tryhackme.com/room/postexploit)            | CTF                 |                                          |
 | ☑      | [Dogcat](https://tryhackme.com/room/dogcat)                                   | CTF                 |                                          |
 | ☐      | [Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)         | CTF                 |                                          |
-| ☐      | [Break out the cage](https://tryhackme.com/room/breakoutthecage1)             | CTF                 |                                          |
+| ☑      | [Break out the cage](https://tryhackme.com/room/breakoutthecage1)             | CTF                 |                                          |
 | ☑      | [Lian Yu](https://tryhackme.com/room/lianyu)                                  | CTF                 | [done](write-ups/level8/Lian%20Yu)       |
 | ☑      | [Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)              | CTF                 |                                          |
 | ☑      | [Mr Robot CTF](https://tryhackme.com/room/mrrobot)                            | CTF                 |                                          |
