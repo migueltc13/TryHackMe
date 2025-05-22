@@ -33,7 +33,6 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☑      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
 | ☑      | [Linux Fundamentals 1](https://tryhackme.com/room/linuxfundamentalspart1)     | Intro               |                                          |
 | ☑      | [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)     | Intro               |                                          |
-| ☑      | [Principles of Security](https://tryhackme.com/room/principlesofsecurity)     | Intro               |                                          |
 | ☑      | [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)       | Intro               |                                          |
 | ☑      | [Tmux](https://tryhackme.com/room/rptmux)                                     | Tooling             |                                          |
 | ☑      | [Nmap](https://tryhackme.com/room/furthernmap)                                | Tooling             |                                          |
@@ -109,6 +108,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☑      | [Advent of Cyber Year 4](https://tryhackme.com/room/adventofcyber4)           | Other               |                                          |
 
 <!-- Rooms that where made private: -->
+<!-- | ☑      | [Principles of Security](https://tryhackme.com/room/principlesofsecurity)| Intro               |                                          |
 <!-- | ☑      | [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting)       | Intro               |                                          | -->
 <!-- | ☐      | [Sublist3r](https://tryhackme.com/room/rpsublist3r)                      | Tooling             |                                          | -->
 <!-- | ☐      | [Web Scanning](https://tryhackme.com/room/rpwebscanning)                 | Tooling             |                                          | -->
