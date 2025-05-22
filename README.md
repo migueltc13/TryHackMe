@@ -108,7 +108,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☑      | [Advent of Cyber Year 4](https://tryhackme.com/room/adventofcyber4)           | Other               |                                          |
 
 <!-- Rooms that where made private: -->
-<!-- | ☑      | [Principles of Security](https://tryhackme.com/room/principlesofsecurity)| Intro               |                                          |
+<!-- | ☑      | [Principles of Security](https://tryhackme.com/room/principlesofsecurity)| Intro               |                                          | -->
 <!-- | ☑      | [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting)       | Intro               |                                          | -->
 <!-- | ☐      | [Sublist3r](https://tryhackme.com/room/rpsublist3r)                      | Tooling             |                                          | -->
 <!-- | ☐      | [Web Scanning](https://tryhackme.com/room/rpwebscanning)                 | Tooling             |                                          | -->
