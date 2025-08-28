@@ -2,7 +2,7 @@
 
 This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain. 
 
-It offers a diverse selection of practical exercises, introductory CTFs, and educational modules that encompass a broad spectrum of topics, including OpenVPN, Linux fundamentals, web scanning, and Metasploit, all available at no cost.
+It offers a diverse selection of practical exercises, introductory CTFs, and educational modules that encompass a broad spectrum of topics, including OpenVPN, Linux fundamentals (Part 1), web scanning, and Metasploit, all available at no cost.
 
 Suitable for individuals new to the field or those seeking to refine their existing skills, this learning path provides a valuable resource for all.
 
@@ -110,6 +110,8 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 <!-- Rooms that where made private: -->
 <!-- | ☑      | [Principles of Security](https://tryhackme.com/room/principlesofsecurity)| Intro               |                                          | -->
 <!-- | ☑      | [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting)       | Intro               |                                          | -->
+<!-- | ☐      | [Linux Fundamentals 2](https://tryhackme.com/room/linuxfundamentalspart2)| Intro               |                                          | -->
+<!-- | ☐      | [Linux Fundamentals 3](https://tryhackme.com/room/linuxfundamentalspart3)| Intro               |                                          | -->
 <!-- | ☐      | [Sublist3r](https://tryhackme.com/room/rpsublist3r)                      | Tooling             |                                          | -->
 <!-- | ☐      | [Web Scanning](https://tryhackme.com/room/rpwebscanning)                 | Tooling             |                                          | -->
 <!-- | ☐      | [Intro to x86 64](https://tryhackme.com/room/introtox8664)               | Reverse Engineering |                                          | -->
