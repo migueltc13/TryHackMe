@@ -41,7 +41,6 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☑      | [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)                      | Tooling             | [done](write-ups/level2/Linux%20PrivEsc) |
 | ☑      | [Shodan.io](https://tryhackme.com/room/shodan)                                | Tooling             |                                          |
 | ☑      | [RustScan](https://tryhackme.com/room/rustscan)                               | Tooling             | [done](write-ups/level2/RustScan)        |
-| ☑      | [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)          | Tooling             |                                          |
 | ☑      | [Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)          | Tooling             |                                          |
 | ☐      | [Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)         | Tooling             |                                          |
 | ☑      | [OHsint](https://tryhackme.com/room/ohsint)                                   | CTF                 |                                          |
@@ -108,6 +107,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☑      | [Advent of Cyber Year 4](https://tryhackme.com/room/adventofcyber4)           | Other               |                                          |
 
 <!-- Rooms that where made private: -->
+<!-- | ☑      | [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)     | Tooling             |                                          | -->
 <!-- | ☑      | [Principles of Security](https://tryhackme.com/room/principlesofsecurity)| Intro               |                                          | -->
 <!-- | ☑      | [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting)       | Intro               |                                          | -->
 <!-- | ☐      | [Sublist3r](https://tryhackme.com/room/rpsublist3r)                      | Tooling             |                                          | -->
